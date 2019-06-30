@@ -1,3 +1,5 @@
 language: node_js
 node_js:
  - "node"
+notifications:
+  slack: timenomeprojeto:04ePSIhyxqP9o6I0rkreKxAR
