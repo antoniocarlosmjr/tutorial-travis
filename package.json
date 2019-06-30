@@ -1,0 +1,23 @@
+{
+  "name": "tutorial-travis",
+  "version": "1.0.0",
+  "description": "Repositório para teste do Travis",
+  "main": "hello.js",
+  "scripts": {
+    "test": "jshint hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniocarlosmjr/tutorial-travis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoniocarlosmjr/tutorial-travis/issues"
+  },
+  "homepage": "https://github.com/antoniocarlosmjr/tutorial-travis#readme",
+  "devDependencies": {
+    "jshint": "^2.10.2"
+  }
+}
